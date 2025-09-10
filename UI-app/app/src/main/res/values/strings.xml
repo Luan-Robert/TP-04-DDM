@@ -1,24 +1,24 @@
 <resources>
     <string name="app_name">UI</string>
+
+    <string name="email_hint">E-mail</string>
+    <string name="password_hint">Senha</string>
+    <string name="login_button">Entrar</string>
+    <string name="register_button">Cadastrar</string>
+    <string name="forgot_password">Esqueceu a senha?</string>
+    <string name="ok">OK</string>
+
     <string name="register_success">Usuário cadastrado com sucesso!</string>
     <string name="email_already_exists">Este e-mail já está cadastrado.</string>
     <string name="login_success">Login realizado com sucesso!</string>
-    <string name="user_not_found">Usuário não encontrado.</string>
-    <string name="wrong_password">Senha incorreta.</string>
-    <string name="email_required">O e-mail é obrigatório.</string>
+    <string name="login_failed">Login falhou. Verifique seu e-mail e senha.</string>
+
     <string name="invalid_email">E-mail inválido.</string>
     <string name="password_required">A senha é obrigatória.</string>
+
     <string name="forgot_password_title">Esqueceu a Senha?</string>
     <string name="contact_admin">Por favor, entre em contato com o administrador.</string>
-    <string name="ok">OK</string>
-    <string name="name_required">O nome é obrigatório.</string>
-    <string name="password_too_short">A senha deve ter pelo menos 6 caracteres.</string>
-    <string name="register_button">Cadastrar</string>
-    <string name="login_button">Entrar</string>
-    <string name="forgot_password">Esqueceu a senha?</string>
-    <string name="name_hint">Nome</string>
-    <string name="email_hint">E-mail</string>
-    <string name="password_hint">Senha</string>
-    <string name="register_here">Não tem conta? Cadastre-se aqui</string>
-    <string name="login_here">Já tem conta? Faça login aqui</string>
+    <string name="register_success_title">Cadastro bem-sucedido!</string>
+    <string name="login_success_title">Login bem-sucedido!</string>
+    <string name="error_title">Erro</string>
 </resources>

@@ -1,4 +1,4 @@
-package Model
+package br.unisanta.ui.model
 
 interface UsuarioDao {
     fun adicionarUsuario(usuario: Usuario): Boolean

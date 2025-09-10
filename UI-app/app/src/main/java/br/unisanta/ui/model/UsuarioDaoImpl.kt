@@ -1,4 +1,4 @@
-package Model
+package br.unisanta.ui.model
 
 class UsuarioDaoImpl : UsuarioDao {
     companion object {
